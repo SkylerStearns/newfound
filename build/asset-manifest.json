@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/newfound/static/css/main.a691eac1.chunk.css",
+    "main.js": "/newfound/static/js/main.bc9ba9b8.chunk.js",
+    "main.js.map": "/newfound/static/js/main.bc9ba9b8.chunk.js.map",
+    "runtime-main.js": "/newfound/static/js/runtime-main.46a3b339.js",
+    "runtime-main.js.map": "/newfound/static/js/runtime-main.46a3b339.js.map",
+    "static/css/2.73892852.chunk.css": "/newfound/static/css/2.73892852.chunk.css",
+    "static/js/2.2baabb2f.chunk.js": "/newfound/static/js/2.2baabb2f.chunk.js",
+    "static/js/2.2baabb2f.chunk.js.map": "/newfound/static/js/2.2baabb2f.chunk.js.map",
+    "static/js/3.f2ac8295.chunk.js": "/newfound/static/js/3.f2ac8295.chunk.js",
+    "static/js/3.f2ac8295.chunk.js.map": "/newfound/static/js/3.f2ac8295.chunk.js.map",
+    "index.html": "/newfound/index.html",
+    "static/css/2.73892852.chunk.css.map": "/newfound/static/css/2.73892852.chunk.css.map",
+    "static/css/main.a691eac1.chunk.css.map": "/newfound/static/css/main.a691eac1.chunk.css.map",
+    "static/js/2.2baabb2f.chunk.js.LICENSE.txt": "/newfound/static/js/2.2baabb2f.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/newfound/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46a3b339.js",
+    "static/css/2.73892852.chunk.css",
+    "static/js/2.2baabb2f.chunk.js",
+    "static/css/main.a691eac1.chunk.css",
+    "static/js/main.bc9ba9b8.chunk.js"
+  ]
+}
