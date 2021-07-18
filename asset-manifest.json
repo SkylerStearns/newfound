@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/newfound/static/css/main.a617e044.chunk.css",
+    "main.js": "/newfound/static/js/main.22098b9d.chunk.js",
+    "main.js.map": "/newfound/static/js/main.22098b9d.chunk.js.map",
+    "runtime-main.js": "/newfound/static/js/runtime-main.a231586b.js",
+    "runtime-main.js.map": "/newfound/static/js/runtime-main.a231586b.js.map",
+    "static/js/2.36072023.chunk.js": "/newfound/static/js/2.36072023.chunk.js",
+    "static/js/2.36072023.chunk.js.map": "/newfound/static/js/2.36072023.chunk.js.map",
+    "static/js/3.99519f75.chunk.js": "/newfound/static/js/3.99519f75.chunk.js",
+    "static/js/3.99519f75.chunk.js.map": "/newfound/static/js/3.99519f75.chunk.js.map",
+    "index.html": "/newfound/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/newfound/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.36072023.chunk.js.LICENSE.txt": "/newfound/static/js/2.36072023.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/newfound/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a231586b.js",
+    "static/js/2.36072023.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.22098b9d.chunk.js"
+  ]
+}
