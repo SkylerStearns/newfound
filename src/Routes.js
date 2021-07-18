@@ -538,7 +538,7 @@ const Routes = () => {
           />
         )}
       />
-      <Redirect to="/page-not-found" />
+      <Redirect to="/" />
     </Switch>
   );
 };
